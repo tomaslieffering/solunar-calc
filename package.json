@@ -1,0 +1,20 @@
+{
+  "name": "lunar-calc",
+  "version": "1.0.0",
+  "description": "Package that provides an implementation of the Montenbruck and Pfleger sunrise, moonrise and twilight algorthim",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sun",
+    "solar",
+    "moon",
+    "lunar",
+    "sunrise",
+    "moonrise",
+    "calculator"
+  ],
+  "author": "Tomas Lieffering",
+  "license": "ISC"
+}
