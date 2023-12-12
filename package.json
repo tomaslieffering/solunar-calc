@@ -1,10 +1,14 @@
 {
-  "name": "lunar-calc",
+  "name": "solunar-calc",
   "version": "1.0.0",
   "description": "Package that provides an implementation of the Montenbruck and Pfleger sunrise, moonrise and twilight algorthim",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomaslieffering/solunar-calc.git"
   },
   "keywords": [
     "sun",
@@ -16,5 +20,9 @@
     "calculator"
   ],
   "author": "Tomas Lieffering",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-google": "^0.14.0"
+  }
 }
